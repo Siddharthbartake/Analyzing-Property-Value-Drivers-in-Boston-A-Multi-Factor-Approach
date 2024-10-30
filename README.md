@@ -1,5 +1,6 @@
 # Analyzing-Property-Value-Drivers-in-Boston-A-Multi-Factor-Approach
 
+### For the entire Data Analysis, refer to [ISDS577]([path/to/your/file.extension](https://github.com/Siddharthbartake/Analyzing-Property-Value-Drivers-in-Boston-A-Multi-Factor-Approach/blob/main/ISDS577Project.pdf)
 ### Overview
 This project presents an in-depth analysis of Boston's real estate market, utilizing a dataset integrating property, public school, and crime data for the city. Our goal was to explore the factors influencing property values across various neighborhoods in Boston, with a focus on actionable insights for real estate investors and city planners.
 
